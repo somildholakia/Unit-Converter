@@ -60,6 +60,8 @@
     height: 100px;
     width: 570px;
     border: 1px solid greenyellow;
+    background-color: whitesmoke;
+    border-radius: 2px;
     text-align: center;
 }
 
